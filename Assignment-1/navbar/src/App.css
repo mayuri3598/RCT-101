@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display: flex;
+  width: 100%;
+  background-color: black;
+  color: white;
+  height: 10%;
+  /* border: solid red; */
+  justify-content: space-around;
+  align-items: center;
+}
+
+.three{
+  display: flex;
+  /* border: solid yellow; */
+  width: 40%;
+}
+
+.option {
+  /* border: solid palevioletred; */
+  width: 100%;
+}
+
+.button1{
+  background-color: rgb(38, 165, 215);
+  border-radius: 10px;
+  border: none;
+  height: 25px;
+  color: white;
+}
