@@ -1,0 +1,30 @@
+.App {
+  /* text-align: center; */
+  margin-left: 2.5%;
+}
+
+#navbar{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(36,37,42);
+  width: 95%;
+  height: 50px;
+  padding: 10px;
+  color: white;
+}
+.middle{
+  display: flex;
+  width: 30%;
+  justify-content: space-around;
+}
+
+button{
+  margin-top: 10px;
+  background-color: cyan;
+  color: black;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+  border: none;
+}
