@@ -1,0 +1,18 @@
+.todoItem {
+    width: 20%;
+    margin: 30px auto;
+    border: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.todoItem input {
+    margin-left: 10px;
+}
+
+.InputDiv {
+    width: 20%;
+    margin: 30px auto;
+}
