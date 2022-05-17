@@ -1,0 +1,18 @@
+.container2{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 8px;
+    border: 1px solid rgb(42, 136, 104);
+    background-color: rgb(63, 189, 147);
+    color: black;
+    text-decoration: line-through;
+    opacity: 65%;
+}
+.checked2{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+}
