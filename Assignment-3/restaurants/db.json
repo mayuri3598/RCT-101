@@ -1,0 +1,235 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.qrvg1xStR-fYQx8RqolgywHaE8&pid=Api&P=0&w=249&h=166",
+      "res_name": "Baumbach-Olson",
+      "costforone": 598,
+      "address": "Washington",
+      "card": false,
+      "rating": 3,
+      "totalvotes": 861,
+      "cat": "Desert"
+    },
+    {
+      "id": 2,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Hm3rqVeOzqa8DrRL_91niwHaFj&pid=Api&P=0&w=239&h=179",
+      "res_name": "Farrell-Schultz",
+      "costforone": 365,
+      "address": "Roth",
+      "card": false,
+      "rating": 4,
+      "totalvotes": 613,
+      "cat": "Chinese"
+    },
+    {
+      "id": 3,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.HtpZ0br3pEA8GMh1l5pGtwHaEc&pid=Api&P=0&w=272&h=163",
+      "res_name": "Walsh-Okuneva",
+      "costforone": 369,
+      "address": "Meadow Valley",
+      "card": true,
+      "rating": 3,
+      "totalvotes": 328,
+      "cat": "Desert"
+    },
+    {
+      "id": 4,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.-adT4RsVNIuwIJ0LlMqlSAHaFj&pid=Api&P=0&w=217&h=163",
+      "res_name": "Hamill Group",
+      "costforone": 478,
+      "address": "Del Sol",
+      "card": false,
+      "rating": 5,
+      "totalvotes": 396,
+      "cat": "Fast-food"
+    },
+    {
+      "id": 5,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.uieSBgj73LOFEi3g-Dt3PQHaFj&pid=Api&P=0&w=248&h=186",
+      "res_name": "Donnelly-Bradtke",
+      "costforone": 635,
+      "address": "Forest Run",
+      "card": true,
+      "rating": 4,
+      "totalvotes": 721,
+      "cat": "Cafe"
+    },
+    {
+      "id": 6,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.JGbU5C5PpIJL1ENp_RrkOwHaE8&pid=Api&P=0&w=279&h=186",
+      "res_name": "Schimmel-Labadie",
+      "costforone": 669,
+      "address": "Toban",
+      "card": false,
+      "rating": 2,
+      "totalvotes": 972,
+      "cat": "Desert"
+    },
+    {
+      "id": 7,
+      "image": "https://tse2.mm.bing.net/th?id=OIP._hCIRKJ6blqlQxPYtHNYhQHaFC&pid=Api&P=0&w=259&h=176",
+      "res_name": "Reinger LLC",
+      "costforone": 372,
+      "address": "Macpherson",
+      "card": true,
+      "rating": 5,
+      "totalvotes": 327,
+      "cat": "Fast-food"
+    },
+    {
+      "id": 8,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.HneZi_JPdYomOgVoWXD3OQHaE8&pid=Api&P=0&w=245&h=163",
+      "res_name": "Boyer-Torp",
+      "costforone": 479,
+      "address": "Surrey",
+      "card": true,
+      "rating": 5,
+      "totalvotes": 457,
+      "cat": "Chinese"
+    },
+    {
+      "id": 9,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.ADWNxyy9O76fKSvoLzOp6AHaFj&pid=Api&P=0&w=216&h=162",
+      "res_name": "Weimann LLC",
+      "costforone": 522,
+      "address": "Hazelcrest",
+      "card": false,
+      "rating": 2,
+      "totalvotes": 630,
+      "cat": "Desert"
+    },
+    {
+      "id": 10,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.RT1g7oSa116u--31CAddTwHaEc&pid=Api&P=0&w=302&h=181",
+      "res_name": "Hilpert-Franecki",
+      "costforone": 700,
+      "address": "Forster",
+      "card": false,
+      "rating": 2,
+      "totalvotes": 906,
+      "cat": "Fast-food"
+    },
+    {
+      "id": 11,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.P_vRVnHF6bpe64UEp1E_jwHaEo&pid=Api&P=0&w=289&h=181",
+      "res_name": "Beier-Stracke",
+      "costforone": 434,
+      "address": "Meadow Valley",
+      "card": true,
+      "rating": 5,
+      "totalvotes": 912,
+      "cat": "Chinese"
+    },
+    {
+      "id": 12,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.AO43YfRU4zrNxvZe3CmF6AHaE8&pid=Api&P=0&w=282&h=188",
+      "res_name": "Gibson, McDermott and West",
+      "costforone": 199,
+      "address": "Prairie Rose",
+      "card": false,
+      "rating": 4,
+      "totalvotes": 685,
+      "cat": "Desert"
+    },
+    {
+      "id": 13,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.etkLyzaVxId5SatyGHvseAExDM&pid=Api&P=0&w=282&h=188",
+      "res_name": "Prosacco Group",
+      "costforone": 129,
+      "address": "Magdeline",
+      "card": true,
+      "rating": 3,
+      "totalvotes": 780,
+      "cat": "Fast-food"
+    },
+    {
+      "id": 14,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.QHxU4OGo5ZrBJHeLfyZ86AHaEK&pid=Api&P=0&w=335&h=188",
+      "res_name": "Gerhold-Mosciski",
+      "costforone": 222,
+      "address": "Lakewood",
+      "card": false,
+      "rating": 4,
+      "totalvotes": 815,
+      "cat": "Chinese"
+    },
+    {
+      "id": 15,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.bUDlXNwp3W_K9XFbQccP5gHaE5&pid=Api&P=0&w=254&h=168",
+      "res_name": "Smith, Koelpin and Champlin",
+      "costforone": 451,
+      "address": "Victoria",
+      "card": true,
+      "rating": 2,
+      "totalvotes": 965,
+      "cat": "Desert"
+    },
+    {
+      "id": 16,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.PUDrBF1nOOKE9iU7LauFiwHaFK&pid=Api&P=0&w=244&h=170",
+      "res_name": "Durgan, Koss and Huels",
+      "costforone": 643,
+      "address": "Dovetail",
+      "card": true,
+      "rating": 3,
+      "totalvotes": 848,
+      "cat": "Cafe"
+    },
+    {
+      "id": 17,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.tQbkQRH_XzWmTDuEXKOp-wHaE8&pid=Api&P=0&w=256&h=170",
+      "res_name": "Towne Group",
+      "costforone": 334,
+      "address": "Steensland",
+      "card": true,
+      "rating": 4,
+      "totalvotes": 466,
+      "cat": "Fast-food"
+    },
+    {
+      "id": 18,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.Jded6NkgAYhaa_DciIuysAHaE8&pid=Api&P=0&w=264&h=176",
+      "res_name": "Weber Group",
+      "costforone": 284,
+      "address": "Stephen",
+      "card": false,
+      "rating": 3,
+      "totalvotes": 335,
+      "cat": "Chinese"
+    },
+    {
+      "id": 19,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.DpOS13HNLfDAHZGnVZsX4AHaEK&pid=Api&P=0&w=329&h=185",
+      "res_name": "Schiller and Sons",
+      "costforone": 318,
+      "address": "Tennessee",
+      "card": false,
+      "rating": 3,
+      "totalvotes": 914,
+      "cat": "Desert"
+    },
+    {
+      "id": 20,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.GUNHEQGOcMExMV_kVHWKrAHaEN&pid=Api&P=0&w=306&h=174",
+      "res_name": "Schulist, Rath and Cole",
+      "costforone": 403,
+      "address": "Di Loreto",
+      "card": false,
+      "rating": 2,
+      "totalvotes": 334,
+      "cat": "Cafe"
+    },
+    {
+      "image": "http://cdn.onlyinyourstate.com/wp-content/uploads/2018/02/10986885_962136263798806_2948506855460679605_o.jpg",
+      "res_name": "Shahi Darbar",
+      "costforone": "345",
+      "address": "Mumbai",
+      "card": "true",
+      "rating": "4",
+      "totalvotes": "456",
+      "cat": "chinese",
+      "id": 21
+    }
+  ]
+}
