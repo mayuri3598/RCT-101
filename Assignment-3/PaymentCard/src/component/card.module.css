@@ -1,0 +1,42 @@
+.yellow{
+    background-color: rgb(255,165,0);  
+}
+.gray{
+   background-color: rgb(245,245,245);
+ 
+}
+.card{
+    width: 450px;
+    height: 250px;
+    /* border: 2px solid red; */
+    padding: 20px;
+    padding-left: 15px;
+    margin: 15px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    /* padding: 10px; */
+    /* border: 2px solid rgb(60, 0, 255); */
+    font-weight: bold;
+    height: 30px;
+}
+
+.blackBox{
+    background-color: black;  
+     width: fit-content;
+    height: fit-content;
+    color:white;
+    padding: 5px;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+img{
+    width: 90px;
+    height: 65px;
+    margin-top: 5px;
+}
+.heading{
+    margin-left: 5px;
+}

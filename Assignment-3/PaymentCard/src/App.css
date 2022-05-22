@@ -1,0 +1,13 @@
+.App {
+  /* text-align: center; */
+  width: fit-content;
+  margin: auto;
+
+}
+.yellow{
+  background-color: rgb(255,165,0);  
+}
+.gray{
+ background-color: rgb(245,245,245);
+
+}
