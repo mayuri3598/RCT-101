@@ -1,0 +1,19 @@
+.addstudent{
+    margin: auto;   
+}
+form{
+    background-color:rgb(210, 138, 152);
+    width: 30%;
+    padding: 20px;
+    justify-content: left;
+}
+input{
+    margin-bottom: 10px;
+}
+.submit{
+    margin-top: 10px;
+    color: white;
+    background-color: crimson;
+    border: 1px solid black;
+    padding: 5px;  
+}

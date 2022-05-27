@@ -1,0 +1,10 @@
+{
+  "profile": [{
+    "username": "Huzaifa",
+    "age": "23",
+    "address":"Mumbai",
+    "department":"Engineer",
+    "salary":50000,
+    "marital_status":"single"
+  }]
+}
