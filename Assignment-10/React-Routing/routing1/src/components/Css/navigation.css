@@ -1,0 +1,14 @@
+.navigation{
+    display: block;
+    width: 100%;
+    background-color: rgb(66,66,69);
+}
+.navigation>div:nth-child(1){
+    background-color: rgb(66,66,69);
+    color: white;
+}
+.styledLink{
+    color: rgb(181, 177, 177);
+    text-decoration: none;
+    font-size: 15px;
+}
