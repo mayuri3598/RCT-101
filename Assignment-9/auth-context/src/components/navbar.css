@@ -1,0 +1,12 @@
+.navigationbar{
+    display:flex;
+    justify-content:end;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid red
+}
+.displaystatus{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
