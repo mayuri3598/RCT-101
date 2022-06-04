@@ -16,7 +16,6 @@ import { Latest } from './components/pages/Latest';
 function App() {
   return (
     <div className="App">
-
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home/>}></Route>

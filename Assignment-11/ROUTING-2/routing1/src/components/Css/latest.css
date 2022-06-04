@@ -1,0 +1,13 @@
+#main{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap:20px;
+    text-align: center;
+}
+.element{
+    padding: 10px;
+}
+.element img{
+    width: 80%;
+    height: 70%;
+}
