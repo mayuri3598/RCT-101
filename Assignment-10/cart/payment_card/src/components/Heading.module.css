@@ -1,0 +1,15 @@
+.golden{
+    background-color: rgb(255,165,0);
+    padding: 4% 6% 0 6%;
+    
+    
+}
+.grey{
+    background-color: rgb(245,245,245);
+    padding: 4% 6% 0 6%;
+}
+h1{
+    width: 50%;
+    line-height: 50px;
+    font-size: 40px;
+}
