@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "title": "Learn react",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "Learn veu",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn DSA",
+      "status": true,
+      "id": 3
+    },
+    {
+      "title": "Learn to Eat",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "learn Dsa",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn coding",
+      "status": true,
+      "id": 6
+    },
+    {
+      "title": "awddsa",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "daweed",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
